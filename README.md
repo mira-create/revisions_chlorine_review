@@ -1,5 +1,3 @@
-5. https://docs.google.com/spreadsheets/d/16WAf0KTSKRTIjwbluDqyqbhq1JXRkUioS_QzqwqpPGM/edit#gid=1024744371
-   
 7. https://docs.google.com/spreadsheets/d/1GblpjwolJDNkmA6BPQis4HaInOO9EFgLYzNSlW-mTf4/edit#gid=1948169317
 
 8. https://colab.research.google.com/drive/1JEJBBf44NMKInIi7ZFgOS9vXN0lI1_eA#scrollTo=ofdKuHRbciXo
